@@ -1,0 +1,8 @@
+C:\Users\Legion\source\repos\ExLession3\Interface\obj\Debug\Oop.csproj.AssemblyReference.cache
+C:\Users\Legion\source\repos\ExLession3\Interface\obj\Debug\Oop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion\source\repos\ExLession3\Interface\obj\Debug\Oop.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\ExLession3\Interface\bin\Debug\Interface.exe.config
+C:\Users\Legion\source\repos\ExLession3\Interface\bin\Debug\Interface.exe
+C:\Users\Legion\source\repos\ExLession3\Interface\bin\Debug\Interface.pdb
+C:\Users\Legion\source\repos\ExLession3\Interface\obj\Debug\Interface.exe
+C:\Users\Legion\source\repos\ExLession3\Interface\obj\Debug\Interface.pdb
